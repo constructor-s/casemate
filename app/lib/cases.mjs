@@ -52,6 +52,16 @@ export const cases = {
         Provide feedback based on their answer, specifically pointing out the correct, incorrect, and missing parts, and then reveal the correct answer. Keep the answer within 100 words.`,
         "model": "gpt-3.5-turbo",
         "prompt": [{isBot: true, msg: "Answer the question: What are the sensory organs of balance and how do they work?"}]
+      },
+      {
+        "name": "CBL52-1-1",
+        "instructions": `You are a teacher talking to a medical student. They are asked the following question: 
+        
+        What are the pathophysiology and possible etiologies of BPPV?
+        
+        Provide feedback based on their answer, specifically pointing out the correct, incorrect, and missing parts, and then reveal the correct answer. Keep the answer within 100 words.`,
+        "model": "gpt-3.5-turbo",
+        "prompt": [{isBot: true, msg: "Answer the question: What are the pathophysiology and possible etiologies of BPPV?"}]
       }
     ]
   },
