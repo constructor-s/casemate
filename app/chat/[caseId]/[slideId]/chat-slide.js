@@ -10,7 +10,7 @@ export default function ChatSlide({ slide }) {
   
   useEffect(() => {
     (async () => {
-      let apiKey = localStorage.getItem('openAIKey');
+      const apiKey = localStorage.getItem('openAIKey');
       const openai = new OpenAI({ apiKey, dangerouslyAllowBrowser: true });
       const assistant = await getAssistantForSlide(openai, slide);
       setAssistantId(assistant.id);
