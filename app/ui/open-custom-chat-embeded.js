@@ -38,6 +38,11 @@ function Embed({ assistantId, title="", defaultChat=[] }) {
             setLoading((prev)=>false)
             setChat([...chatRef.current,{isBot:true,msg:messages.data[0].content[0].text.value}])
             // clearInterval(intervalRef.current);
+        } else if (getRun.status == "failed") {
+            console.log("Run failed");
+            setLoading((prev)=>false)
+            setChat([...chatRef.current,{isBot:true,msg:getRun.last_error.message}])
+            // clearInterval(intervalRef.current);
         }else{
             setTimeout(()=>getAnswer(threadId,runId),200)
         }
