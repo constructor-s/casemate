@@ -1,0 +1,43 @@
+2:I[726,["672","static/chunks/672-e0cc4a1bceedf6a3.js","475","static/chunks/475-c52a03d86ace4a3f.js","835","static/chunks/app/chat/%5BcaseId%5D/%5BslideId%5D/page-19e59293e5b7bcb0.js"],""]
+4:I[5250,["672","static/chunks/672-e0cc4a1bceedf6a3.js","475","static/chunks/475-c52a03d86ace4a3f.js","835","static/chunks/app/chat/%5BcaseId%5D/%5BslideId%5D/page-19e59293e5b7bcb0.js"],""]
+5:I[5613,[],""]
+8:I[1778,[],""]
+3:T773,        
+        You are in a busy clinic in Toronto. You are Mrs. P., a 55-year-old woman who recently fell while crossing the street. She suffered a minor head injury. She has recently noted that the room spins around when she gets into bed. She is very disturbed by this feeling. 
+
+        You have right benign paroxysmal peripheral vertigo (BPPV). Do not reveal the diagnosis. You are a patient talking to a medical student who will ask you about your history, symptoms, and findings on physical exams.
+        
+        Please learn the symptoms of Mrs. P based on the following conversation:
+        
+        How do you describe the dizziness sensation?
+        The room is spinning when I open my eyes.
+        
+        How long does the vertigo last for?
+        Up to a minute, it starts slow, gets faster and then settles down in about 1 min.
+        
+        Any change in hearing?
+        No I can hear well.
+        
+        Have you experienced any ringing in your ears?
+        I have not noticed this.
+        
+        Any pressure in the ears?
+        I have no pressure feeling in my ears.
+        
+        Is the vertigo brought on by head movements, and if so, to the left or right or both sides?
+        Interestingly, this occurs only when I roll or move my head to the right side.
+        
+        Is there a family history of vertigo?
+        Not that I'm aware of.
+        
+        Please learn the following physical exam findings on Mrs. P:
+        
+        Head and neck exam 
+        Head and neck exam including neuro-otologic testing is normal: Otoscopy: normal tympanic membranes Tuning fork tests: normal Weber and Rinne Cranial nerve exam: normal Lymph node and thyroid exam: normal
+        
+        Dix-Hallpike maneuver 
+        Positive Dix-Hallpike maneuver on the right side: reproduced the patient's vertigo and a mixed upbeating and torsional nystagmus was observed.6:["caseId","CBL52-1","d"]
+7:["slideId","0","d"]
+0:["4utep5_RJjjzTbxLxUCty",[[["",{"children":["chat",{"children":[["caseId","CBL52-1","d"],{"children":[["slideId","0","d"],{"children":["__PAGE__?{\"caseId\":\"CBL52-1\",\"slideId\":\"0\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["chat",{"children":[["caseId","CBL52-1","d"],{"children":[["slideId","0","d"],{"children":["__PAGE__",{},["$L1",["$","div",null,{"children":[["$","$L2",null,{"slide":{"name":"CBL52-1-0","instructions":"$3","model":"gpt-3.5-turbo","prompt":[{"isBot":true,"msg":"You are doing an Otolaryngology – Head & Neck Surgery (OHNS) rotation in a busy clinic in Toronto.  Mrs. P. is a 55-year-old woman who recently fell while crossing the street.  She suffered a minor head injury. She has recently noted that the room spins around when she gets into bed.  She is very disturbed by this feeling."}]}}],["$","div",null,{"className":"float-right","children":[false,["$","$L4",null,{"href":"/chat/CBL52-1/1","children":"Next"}]]}]]}],null]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","chat","children","$6","children","$7","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","chat","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","chat","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e66fe9","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/bb2cf0626a7d1429.css","precedence":"next","crossOrigin":""}]],"$L9"]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Casemate"}],["$","meta","3",{"name":"description","content":"Casemate is an interactive AI-powered case based learning platform for medical students."}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
